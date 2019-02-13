@@ -1,6 +1,5 @@
 node_modules
 coverage/
-dist/
 docs/
 jest-screenshot-report/
 /.idea
